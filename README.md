@@ -1,4 +1,4 @@
-<div align=center>
+<div align=left>
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=f8bbd0&height=150&section=header&text=SeulgiLee&fontSize=70&animation=twinkling&fontColor=FFFFFF)
 </br>
@@ -6,7 +6,7 @@
 <p>
   Hi there! I'm <b>Front-end developer</b> using <b>React.js</b>👋&nbsp;
 <br/>
-  I am currently preparing for a front-end job, and I am completing the full-stack developer course at Ezen academy.<br/>
+  I am currently preparing for a Front-end job, and I am completing the Full-stack developer course at Ezen academy.<br/>
   <p>I hope to develop beautiful things. ✨</p>
 </p>
 <br/>
