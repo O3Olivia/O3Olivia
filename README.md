@@ -6,8 +6,10 @@
 <p>
   Hi there! I'm <b>Front-end developer</b> using <b>React.js👋&nbsp;</b>
 <br/>
-  I am currently preparing for a job, and I am completing the full-stack developer course at Ezen academy.<br/><br/>
+  I am currently preparing for a front-end job, and I am completing the full-stack developer course at Ezen academy.<br/>
+  <p>I hope to develop every beautiful things. ✨</p>
 </p>
+<br/>
 
 
 ### 🛠 Tech Stack 🛠
@@ -26,9 +28,8 @@
 
 ### 🌷 Me 🌷
 <p>
-  <a href="mailto:dev.seulkii@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:dev.seulkii@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dev.seulkii@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/seulki-olivia-lee-abb977152/" target="_blank"><img src="https://img.shields.io/badge/Seulk(Olivia)iLee-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=O3Olivia&show_icons=true&theme=dark)
-</br>
 </div>
