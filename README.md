@@ -7,8 +7,8 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>Front-end developer</b> using <b>React.js</b>🚀<br/>
-  I completed the Full-stack developer course at Ezen academy and learning React.js on my own👩‍💻 <br/>
+  👋&nbsp; Hi there! I'm <b>Front-end developer</b> using <b>React</b>🚀<br/>
+  I completed the Full-stack developer course at Ezen academy and learning React on my own👩‍💻 <br/>
   
   
 </p>
