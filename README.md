@@ -7,7 +7,6 @@
   Hi there! I'm <b>Front-end developer</b> using <b>React.js</b>👋&nbsp;
 <br/>
   I am currently preparing for a Front-end job, and I am completing the Full-stack developer course at Ezen academy.<br/>
-  <p>I hope to develop beautiful things. ✨</p>
 </p>
 <br/>
 
