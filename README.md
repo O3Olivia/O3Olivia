@@ -4,7 +4,7 @@
 </br>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>Front-end developer</b> using <b>React.js</b>.
+  Hi there! I'm <b>Front-end developer</b> using <b>React.js👋&nbsp;</b>
 <br/>
   I am currently preparing for a job, and I am completing the full-stack developer course at Ezen academy.<br/><br/>
 </p>
