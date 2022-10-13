@@ -8,7 +8,6 @@
 <br/>
   I am currently preparing for a job, and I am completing the full-stack developer course at Ezen academy.<br/><br/>
 </p>
-</br>
 
 
 ### 🛠 Tech Stack 🛠
