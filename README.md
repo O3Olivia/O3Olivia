@@ -14,7 +14,7 @@
 <p>
   👋&nbsp; Hi there! I'm <b>Front-end developer</b> using <b>React</b>🚀<br/>
   I completed the Full-stack developer course at Ezen academy and learning React on my own👩‍💻 <br/>
-  Currently working on <b>OYS-LAB</b> project 💻
+  Currently working on <b><a href="https://www.oys-lab.com">OYS-LAB</a></b> project 💻
   
   
 </p>
