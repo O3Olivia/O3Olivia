@@ -12,7 +12,7 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>Front-end developer</b> using <b>React</b>🚀<br/>
+  👋&nbsp; Hi there! I'm <b>Front-end developer</b> using <b>React</b> and <b>Next</b>🚀<br/>
   I completed the Full-stack developer course at Ezen academy and learning React on my own👩‍💻 <br/>
   Currently working for <b>Wondermove</b> as a frontend developer. 💻
   
