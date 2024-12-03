@@ -6,7 +6,8 @@
 <img src="https://img.shields.io/badge/Seulki(Olivia)Lee-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://velog.io/@dev_0livia" target="_blank">
 <img src="https://img.shields.io/badge/Seulki'sBlog-33CC66?style=flat&logo=Velog&logoColor=white"/></a> 
-  
+<a href="https://elleb-iklues.tistory.com" target="_blank">
+<img src="https://img.shields.io/badge/Seulki's Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>   
   
   
 </p>
