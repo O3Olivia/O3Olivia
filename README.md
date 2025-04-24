@@ -42,3 +42,13 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
 </p>
 
+
+## 🚀 Activities 🚀
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=O3Olivia&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/O3Olivia"
+  width="600"
+  height="300"
+/>
+</a>
