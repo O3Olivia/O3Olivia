@@ -42,6 +42,3 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
 </p>
 
-## ✨ Hits ✨
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?tab=repositories&url=https%3A%2F%2Fgithub.com%2FO3Olivia&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false"/></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40dev_0livia&count_bg=%232DE08B&title_bg=%232DE08B&icon=bloglovin.svg&icon_color=%23FFFCFC&title=Velog&edge_flat=false"/></a>
