@@ -1,13 +1,14 @@
 ## 👩🏻‍💻 Meet me here 👩🏻‍💻
 <p>
-<a href="mailto:dev.seulkii@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/dev.seulkii@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://seulki-portfolio-git-main-o3olivias-projects.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Seulki's Portfolio-DB3F59?style=flat&logo=undertale&logoColor=white"/></a>   
 <a href="https://www.linkedin.com/in/seulki-olivia-lee-abb977152/" target="_blank">
 <img src="https://img.shields.io/badge/Seulki(Olivia)Lee-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://velog.io/@dev_0livia" target="_blank">
 <img src="https://img.shields.io/badge/Seulki'sBlog-33CC66?style=flat&logo=Velog&logoColor=white"/></a> 
-<a href="https://elleb-iklues.tistory.com" target="_blank">
-<img src="https://img.shields.io/badge/Seulki's Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>   
+<a href="mailto:dev.seulkii@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/dev.seulkii@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+
   
   
 </p>
